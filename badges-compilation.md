@@ -7,7 +7,7 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 1. **Getting Started with TypeScript**: [Badge](https://learn.microsoft.com/en-us/users/viktoriakondrashova1/achievements/zkwyyjn2)
 2. **Declare Variable Types in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/ViktoriaKondrashova1/P5AMYAK4?sharingId=99A2724BF41F5BC4)
 3. **Implement Interfaces in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/ViktoriaKondrashova1/2BFSR4JV?sharingId=99A2724BF41F5BC4)
-4. **Develop Typed Functions in TypeScript**: [Badge](badge-link)
+4. **Develop Typed Functions in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/ViktoriaKondrashova1/3R5VX3ZH?sharingId=99A2724BF41F5BC4)
 5. **Declare and Instantiate Classes in TypeScript**: [Badge](badge-link)
 6. **Generics in TypeScript**: [Badge](badge-link)
 7. **Work with External Libraries in TypeScript**: [Badge](badge-link)
